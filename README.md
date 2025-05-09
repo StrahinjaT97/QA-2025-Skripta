@@ -13,9 +13,9 @@ Kako spisak referenci nije završen, a dosta teksta je parafrazirano iz različi
 
 ## Uputstvo
 
-Skripta je podeljena po glava, gde svaka glava prati jedan nastavni dan (manje-više). Glave su potpisane naslovom koji prati redni broj. Svaka glava ima pod-glave i na kraju opciono odeljak sa dodatnim temama koje su ili nepovezane sa gradivom kursa ili izlaze izvan njenog obima. Takve pod-glave su označene zvezdicom \* pre njihovog naslova.
+Skripta je podeljena po glavama, gde svaka glava prati jedan nastavni dan (manje-više). Glave su podeljenje po naslovima kojima prethode redni brojevi. Svaka glava ima podglave i na kraju opciono odeljak sa dodatnim temama koje su ili nepovezane sa gradivom kursa ili izlaze izvan njenog obima. Takve pod-glave su označene zvezdicom \* pre njihovog naslova.
 
-Kako je ovo prva skripta koju pišem i na sve to nisam u dobrim odnosima sa gramatikom, postojaće dosta grešaka, kako semantičkih, tako i sintaksnih i gramatičkih. Svaku nedoumicu i primećenu grešku - od banalnih stvari poput pogrešno napisanih reči ili izostavljenih interpunkcijskih znakova, do grešaka u prkazanom kodu -  slobodno prijavite u dm-u na slack-u i bice vrlo brzo uklonjena, tj. prepravljena. Takodje, svaka sugestija i konstruktivna kritika je i više nego poželjna. Ideja ove mini-skripte je da vama olakša slušanje kursa.
+Kako je ovo prva skripta koju pišem i na sve to nisam u dobrim odnosima sa gramatikom, postojaće dosta grešaka, kako semantičkih, tako i sintaksnih i gramatičkih. Svaku nedoumicu i primećenu grešku - od banalnih stvari poput pogrešno napisanih reči ili izostavljenih interpunkcijskih znakova, do grešaka u prikazanom kodu -  slobodno prijavite u dm-u na slack-u i bice vrlo brzo uklonjena, tj. prepravljena. Takodje, svaka sugestija i konstruktivna kritika je i više nego poželjna. Ideja ove mini-skripte je da vama olakša slušanje kursa.
 
 Kako je ovo prvi put da se ovako nešto radi na kursu, zadržavam pravo da prestanem da pišem ovo mini-skriptu u bilo kom momentu, ako zaključim da vam odmaže ili da ne odgovara daljem ispravnom toku predavanja!
 
@@ -43,4 +43,7 @@ Konvencionalna pravila:
 - Otvoreni interval, u oznaci $(a, b)$,  je interval čiji su svi elementi oni elementi izmedju $a$ i $b$, ne uključujući ih. Npr $(2, 6) = \{ 3, 4, 5 \}$.
 - Zatvoreni interval, u oznaci $[a, b]$ je interval čiji su svi elementi oni elementi izmedju a i b. Npr $[2, 6] = \{ 2, 3, 4, 5, 6 \}$.
 - Generalno, $($ - isključuje, $[$ - uključuje. Npr $(2, 6] = \{ 3, 4, 5, 6 \}$.
-- Generalizacija - postupak uopštavanja problema/teme.
+- Generalizacija - postupak uopštavanja problema/teme. Sinonim uopštavanju
+- Eksplicitno - direktno. Npr. "Čovek je životinja" -> eksplicitno smo naveli da je čovek životinja
+- Implicitno - impliciramo neku cinjenicu bez  njenog direktnog navodjenja. Npr. "Čovek je sisar" -> ovim smo implicirali da je čovek životinja jer je svaki sisar životinja.
+- Involucija - nešto što je samo sebi inverzno. Npr paljenje i gašenje hemijske olovke na klik je involutivna radnja, pošto je sama sebi inverz - kada dva puta kliknemon ostaćemo u istom položaju; ili će hemijska olovka biti ostati uključena ili ostati isključena.
