@@ -47,3 +47,7 @@ Konvencionalna pravila:
 - Eksplicitno - direktno. Npr. "Čovek je životinja" -> eksplicitno smo naveli da je čovek životinja
 - Implicitno - impliciramo neku cinjenicu bez  njenog direktnog navodjenja. Npr. "Čovek je sisar" -> ovim smo implicirali da je čovek životinja jer je svaki sisar životinja.
 - Involucija - nešto što je samo sebi inverzno. Npr paljenje i gašenje hemijske olovke na klik je involutivna radnja, pošto je sama sebi inverz - kada dva puta kliknemon ostaćemo u istom položaju; ili će hemijska olovka biti ostati uključena ili ostati isključena.
+- Do na X - označava da su neka dva pojma potpuno ista neračunajući svojstvo X. Npr: "Svaka Honda Civic R 2025. godište je ista do na boju", dakle sve Honda Civic R 2025. godiste imaju iste specifikacije i izgledaju isto, ne uzimajući u obzir to što može da im se boja razlikuje.
+- Invarijantno - označava da je nešto ostaje nepromenjeno prilkom promene nečeg drugog. Npr. gravitaciono ubrzanje je invarijantno u odnosu na masu (za različite mase, isto je)
+- Kovarijantno - označava da se nešto menja na isti način prilikom promene nečeg drugog.  Npr. količina znojenja je kovarijantna u odnosu na promenu temperature. Dakle, ako temperatura raste, rasće i kličina znojenja. Ako temperatura opada, opašće i količina znojenja. 
+- Kontravarijantno - označava da se nešto menja na suprotan način prilikom promene nečeg drugog.
